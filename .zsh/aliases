@@ -52,3 +52,5 @@ sshStart() {
 alias sshuser=sshStart
 
 alias sshpingg="ssh -T git@github.com"
+
+alias src="cd ~/src"
