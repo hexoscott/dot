@@ -188,3 +188,5 @@ eval "$(starship init zsh)"
 # Add Kurtosis command-line completion
 source <(kurtosis completion zsh)
 compdef _kurtosis kurtosis
+
+eval "$(zoxide init zsh)"

@@ -61,3 +61,10 @@ alias editalias="nvim ~/.zsh/aliases"
 # SSH stuff
 # connect to the Polygon integration server via my server in digital ocean
 alias integration="ssh -A -J root@64.227.47.140 zkevm@34.175.214.161"
+
+# replace cd with z
+alias cd=z
+alias cdi=zi
+
+# replace cat with bat
+alias cat=bat
