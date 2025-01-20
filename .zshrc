@@ -190,3 +190,6 @@ source <(kurtosis completion zsh)
 compdef _kurtosis kurtosis
 
 eval "$(zoxide init zsh)"
+
+# Added by Windsurf
+export PATH="/Users/scott/.codeium/windsurf/bin:$PATH"
